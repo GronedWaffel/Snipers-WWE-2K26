@@ -1,0 +1,8 @@
+{
+  "name": "snipers-wwe-2k26-menu",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "GPL-3.0-or-later",
+  "scripts": {"build": "node scripts/build.mjs", "test": "node --test tests/*.test.mjs"}
+}

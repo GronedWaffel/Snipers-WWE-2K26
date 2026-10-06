@@ -1,0 +1,190 @@
+{
+  "titleId": "PPSA34299",
+  "version": "01.000.000",
+  "contentId": "UP1001-PPSA34299_00-WWE2K26000000000",
+  "fingerprints": [
+    {
+      "address": "0x107bdb0",
+      "length": 32,
+      "sha256": "1278b066a26e13ccf769a0af8546c589bdf64646403c43074e73fd0f8b0b27a2"
+    },
+    {
+      "address": "0x1130700",
+      "length": 96,
+      "sha256": "d0bb6d5d127ad056a6bb02b006f17c2667bcaf86c027b09539dc810ac2c37160"
+    },
+    {
+      "address": "0x117d970",
+      "length": 128,
+      "sha256": "106b205e86dfd3c6039a693ed369aef5f08b03a4ff4f3328c0f88370378801db"
+    },
+    {
+      "address": "0x1cefa30",
+      "length": 128,
+      "sha256": "5f6c1244625a7f94f506d6c2373781e7da04bfa18066a3b0777ab13486d1c777"
+    },
+    {
+      "address": "0x134a590",
+      "length": 128,
+      "sha256": "e67e88b4d9f40d7a707003735dd85f4938f5f443fbaed6707d0a34c0c485c746"
+    }
+  ],
+  "hooks": [
+    {
+      "address": "0x10bdde0",
+      "original": "554889e5415653",
+      "kind": "entry",
+      "exportOffset": 32,
+      "trampoline": "0x5b00"
+    },
+    {
+      "address": "0x10941f0",
+      "original": "554889e54157",
+      "kind": "entry",
+      "exportOffset": 64,
+      "trampoline": "0x5b20"
+    },
+    {
+      "address": "0x10885c0",
+      "original": "554889e54157",
+      "kind": "entry",
+      "exportOffset": 72,
+      "trampoline": "0x5b40"
+    },
+    {
+      "address": "0x10887c0",
+      "original": "554889e54157",
+      "kind": "entry",
+      "exportOffset": 80,
+      "trampoline": "0x5b60"
+    },
+    {
+      "address": "0x10888f0",
+      "original": "554889e54157",
+      "kind": "entry",
+      "exportOffset": 88,
+      "trampoline": "0x5b80"
+    },
+    {
+      "address": "0x117ced1",
+      "original": "e8da35efff",
+      "kind": "call",
+      "exportOffset": 96
+    },
+    {
+      "address": "0x117d049",
+      "original": "e86234efff",
+      "kind": "call",
+      "exportOffset": 96
+    },
+    {
+      "address": "0x117d19e",
+      "original": "e80d33efff",
+      "kind": "call",
+      "exportOffset": 96
+    },
+    {
+      "address": "0x117d1da",
+      "original": "e8d132efff",
+      "kind": "call",
+      "exportOffset": 96
+    },
+    {
+      "address": "0x117db56",
+      "original": "e845f3ffff",
+      "kind": "call",
+      "exportOffset": 104
+    },
+    {
+      "address": "0x117dc50",
+      "original": "e8cbf3ffff",
+      "kind": "call",
+      "exportOffset": 112
+    },
+    {
+      "address": "0x117dc96",
+      "original": "e8b5f4ffff",
+      "kind": "call",
+      "exportOffset": 120
+    },
+    {
+      "address": "0x117d0ad",
+      "original": "e82e6d3e00",
+      "kind": "call",
+      "exportOffset": 128
+    },
+    {
+      "address": "0x117d101",
+      "original": "e89a90edff",
+      "kind": "call",
+      "exportOffset": 136
+    },
+    {
+      "address": "0x1346d67",
+      "original": "e824380000",
+      "kind": "call",
+      "exportOffset": 144
+    },
+    {
+      "address": "0x1346db5",
+      "original": "e9d6370000",
+      "kind": "call",
+      "exportOffset": 144
+    },
+    {
+      "address": "0x1347ba0",
+      "original": "e8eb290000",
+      "kind": "call",
+      "exportOffset": 144
+    },
+    {
+      "address": "0x1055dff",
+      "original": "e8aca60100",
+      "kind": "call",
+      "exportOffset": 96
+    },
+    {
+      "address": "0x80a1c0",
+      "original": "554889e54157",
+      "kind": "entry",
+      "exportOffset": 152,
+      "trampoline": "0x5bc0"
+    },
+    {
+      "address": "0x1130764",
+      "original": "e847fdf3ff",
+      "kind": "call",
+      "exportOffset": 96
+    },
+    {
+      "address": "0x4ce47e0",
+      "original": "f06e3c0100000000",
+      "kind": "pointer",
+      "exportOffset": 40
+    },
+    {
+      "address": "0x4b78598",
+      "original": "d04d150100000000",
+      "kind": "pointer",
+      "exportOffset": 48
+    },
+    {
+      "address": "0x4e06360",
+      "original": "8082d80100000000",
+      "kind": "pointer",
+      "exportOffset": 16
+    },
+    {
+      "address": "0x4e065c8",
+      "original": "6003cf0100000000",
+      "kind": "pointer",
+      "exportOffset": 56
+    },
+    {
+      "address": "0x4e061b0",
+      "original": "30face0100000000",
+      "kind": "pointer",
+      "exportOffset": 8
+    }
+  ]
+}
